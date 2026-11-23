@@ -1,8 +1,8 @@
-import Header from './components/Header.jsx';
-import StatCard from './components/StatCard.jsx';
-import UserList from './components/UserList.jsx';
-import WeatherPlaceholder from './components/WeatherPlaceholder.jsx';
-import { sampleUsers } from './data/users.js';
+import Header from "./components/Header.jsx";
+import StatCard from "./components/StatCard.jsx";
+import UserList from "./components/UserList.jsx";
+import WeatherPlaceholder from "./components/WeatherPlaceholder.jsx";
+import { sampleUsers } from "./data/users.js";
 
 export default function App() {
   return (
@@ -10,12 +10,9 @@ export default function App() {
       <Header title="Open Source Studio" subtitle="Week 13 · React Mini Dashboard" />
       <main className="dashboard">
         <section className="hero">
-          <p className="hero-kicker">OPEN SOURCE STUDIO / WEEK 13</p>
-          <h1>Build. Analyze. Deploy. Connect.</h1>
-          <p>
-            One small React project for GitHub collaboration, component analysis,
-            Vercel deployment and REST API integration.
-          </p>
+          <p className="hero-kicker">하..</p>
+          <h1>ㅁㄴㅇㄹㄴㅁㅇㄹ</h1>
+          <p>ㄴㅇㄹㅁㄴㅇㄹㄴㅇㄹㅁㄴㅇㄴㅁㅇㄴㅇㅁㄴㅇㅆㅁㄴㅇㄹㅁㅂ</p>
           <span className="hero-tag">CLASS PRACTICE ONLY · NO SUBMISSION</span>
         </section>
 
